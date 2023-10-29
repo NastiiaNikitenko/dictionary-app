@@ -1,5 +1,4 @@
 import React from "react";
-import Audio from "./Audio";
 
 export default function Phonetic(props) {
   return (
